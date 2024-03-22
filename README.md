@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @GRILGEN
+- 👀 I’m interested in electronics and programming
+- 🌱 I’m currently learning с#,c++ fnd java
+- 😄 Pronouns he
